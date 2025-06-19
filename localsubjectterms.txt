@@ -1,0 +1,135 @@
+Head-driven Phrase Structure Grammar
+HPSG
+Hic et Nunc Particle
+Hic et Nunc Particles
+HNP
+NP structure
+NP/DP parameter
+Question Under Discussion
+QUD
+Role and Reference Grammar
+RRG
+Tree Adjoining Grammar
+TAG
+Tree-Wrapping Grammar
+TWG
+acceptability
+anaphor
+anaphora
+antecedent
+antecedent preferences
+assertive rising declaratives
+ARDs
+attribute-value constraints
+backward binding
+base generation
+base order
+binding
+broad focus
+c-command
+causality
+classifier
+classifiers
+coherence relations
+commitment
+commitment projection
+complement focus
+completion task
+connective
+conventional implicature
+cooptation
+copredication
+corpus study
+decompositional frames
+default logic
+demonstratives
+Dialogue Game Board 
+DGB
+discourse components
+discourse domains
+discourse effects
+discourse functions
+discourse marker 
+DM
+discourse relation 
+DR
+dot-type
+edge feature
+experiencer
+experimental semantics
+facet-addressing
+facet-picking
+focus
+focus structure
+frame semantics
+grammaticality
+head-functor analysis
+head-specifier
+headedness
+implicit causality
+information structure
+IS
+information unit
+IU
+inherently polysemous noun
+inquisitive rising declaratives
+IRDs
+intonation patterns
+left-branching
+linear order
+linearisation
+locality
+logophoric
+logophoricity
+marked
+markedness
+meaning facet
+measure classifiers
+midfield
+modifier
+modifiers
+multiple focus
+next mention bias
+non-constituent focus
+normal order
+null subjects
+object
+pragmatic assertion
+pragmatic focus
+pragmatic presupposition
+pragmatic reasoning
+pragmatic structuring
+predicate-based theories of binding
+predicates of personal taste 
+PPT
+predictability
+presupposition 
+PSP
+primary facet
+production
+pronominal subjects
+propositional attitudes
+propositional content
+PC
+reconstruction 
+reconstruct
+reference type
+referential form
+reflexive
+rising declaratives
+RDs
+salience
+secondary facet
+semantic content
+sortal classifiers
+speech acts
+subject
+subjective attitude verbs 
+SAV
+subjectivity
+unaccusative 
+unaccusativity
+verb bias
+verb focus
+word order
+
